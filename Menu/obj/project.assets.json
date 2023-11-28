@@ -33933,11 +33933,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\david\\source\\repos\\Menu\\Menu\\Menu.csproj",
+      "projectUniqueName": "C:\\Users\\david\\Repositorios\\DetailsPage\\Menu\\Menu.csproj",
       "projectName": "Menu",
-      "projectPath": "C:\\Users\\david\\source\\repos\\Menu\\Menu\\Menu.csproj",
+      "projectPath": "C:\\Users\\david\\Repositorios\\DetailsPage\\Menu\\Menu.csproj",
       "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\david\\source\\repos\\Menu\\Menu\\obj\\",
+      "outputPath": "C:\\Users\\david\\Repositorios\\DetailsPage\\Menu\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

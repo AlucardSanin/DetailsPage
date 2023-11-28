@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jZlYoYvQbHwcSvEa3EepCOqj5T+7enxVgI+4Jk6iibAi/M/9IMCd/atK2GuO8HLKjlY7UckosEapb1Tl2m5xpA==",
+  "dgSpecHash": "K5ZD0LGWSzZWCnjZsIpNeAN9fFHWcPRM4SiUUJdfB6w/JxZrGNYYuv/fquQpeML31IvEQlMQYJpv83aLp6zrHg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\david\\source\\repos\\Menu\\Menu\\Menu.csproj",
+  "projectFilePath": "C:\\Users\\david\\Repositorios\\DetailsPage\\Menu\\Menu.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\david\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512",
     "C:\\Users\\david\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
